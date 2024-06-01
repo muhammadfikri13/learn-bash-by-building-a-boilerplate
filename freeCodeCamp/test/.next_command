@@ -238,3 +238,12 @@ more README.md
 vim README.md
 more README.md
 cd ..
+cd website/
+nano R
+ls --color=auto
+nano README.md
+more README.md
+nano README.md
+more README.md
+cd ..
+ls --color=auto
