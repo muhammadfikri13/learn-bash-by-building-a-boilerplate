@@ -253,3 +253,6 @@ copy --help
 copy -help
 copy help
 cp --help
+ls --color=auto
+find toms-website
+cp -r website-boilerplate/ toms-website
