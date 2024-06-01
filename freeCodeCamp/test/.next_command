@@ -235,3 +235,6 @@ more README.md
 echo for the freeCodeCamp bach lessons >> README.md
 echo for the freeCodeCamp bash lessons >> README.md
 more README.md
+vim README.md
+more README.md
+cd ..
