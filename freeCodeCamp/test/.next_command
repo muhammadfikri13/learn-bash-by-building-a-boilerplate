@@ -174,3 +174,4 @@ touch background.jpg
 cd /website
 cd ../../../
 cd images/
+ls --color=auto
