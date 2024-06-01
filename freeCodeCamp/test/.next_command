@@ -173,3 +173,4 @@ cd images/
 touch background.jpg
 cd /website
 cd ../../../
+cd images/
