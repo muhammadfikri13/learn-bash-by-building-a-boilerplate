@@ -162,3 +162,4 @@ find index.html
 find client/src/inde.html
 find client/src/index.html
 find -name index.html
+find -name styles.css
