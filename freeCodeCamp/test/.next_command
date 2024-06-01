@@ -187,3 +187,4 @@ find -name images
 cd ../../
 cd ..
 find -name images
+mv header.png client/assets/images/
