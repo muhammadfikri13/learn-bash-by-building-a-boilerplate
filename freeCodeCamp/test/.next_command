@@ -216,3 +216,4 @@ touch client/assets/fonts/lato-ligth.ttf
 rm client/assets/fonts/lato-ligth.ttf
 rm client/assets/fonts/lato-light.ttf
 touch client/assets/fonts/lato-light.ttf
+find
